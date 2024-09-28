@@ -21,4 +21,3 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1, 19, 
 wait(0.5)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0, 19, -20087)
 wait(1)
-end
